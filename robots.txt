@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wh946.gitee.io/sitemap.xml
+Sitemap: https://wh946.github.io/sitemap.xml

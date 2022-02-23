@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Even - A super concise theme for Hugo</title>
-    <link>https://wh946.gitee.io/post/</link>
+    <link>https://wh946.github.io/post/</link>
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 23:30:40 +0800</lastBuildDate><atom:link href="https://wh946.gitee.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 23:30:40 +0800</lastBuildDate><atom:link href="https://wh946.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://wh946.gitee.io/post/first/</link>
+      <link>https://wh946.github.io/post/first/</link>
       <pubDate>Wed, 23 Feb 2022 23:30:40 +0800</pubDate>
       
-      <guid>https://wh946.gitee.io/post/first/</guid>
+      <guid>https://wh946.github.io/post/first/</guid>
       <description>Hello World
 $f(x) = e^x$
 1 2 3 4 5 6 7 8 9 10 11 12 13 14  #include &amp;lt;bits/stdc++.h&amp;gt; using namespace std; const int inf = 0x3f3f3f3f; int main(void) { ios::sync_with_stdio(false); cin.tie(0); return 0; }   </description>
